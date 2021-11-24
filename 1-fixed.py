@@ -1,4 +1,4 @@
-first_num = 2;
-secord_num = 3;
-sum = firstNum + secondNum;
-print(sum);
+firstnum = 2
+secondnum = 3
+sum = firstnum + secondnum
+print(sum)
